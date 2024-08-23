@@ -60,12 +60,12 @@
 
   &:hover {
     z-index: 2;
-    transform: scale(1.1);
+    transform: scale(1);
 
     img {
       -webkit-filter: grayscale(100%);
       filter: grayscale(100%);
-      transform: scale(1.00);
+      transform: scale(1.05);
     }
 
     .box-body {
