@@ -6,11 +6,9 @@ subtitle: Love her.
 description: One of my favorite artists!
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme8_knvabs.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme8_knvabs.jpg
-category: tutorial
+category: indie
 tags:
-  - jedi
-  - doggo
-  - starwars
+  - friday
 author: mranderson
 ---
 

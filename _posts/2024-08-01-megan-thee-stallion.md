@@ -9,10 +9,10 @@ image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
-category: blog
+category: rap
 tags:
-  - welcome
-  - blog
+  - headliner
+  - thursday
 author: mranderson
 paginate: true
 ---
