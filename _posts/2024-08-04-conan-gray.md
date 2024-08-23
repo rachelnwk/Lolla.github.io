@@ -4,8 +4,8 @@ layout: post
 title: Conan Gray
 subtitle: He's great!
 description: I know like two songs.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824822/theme15_oqsl4z.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824822/theme15_oqsl4z.jpg
+image: /lolla.github.io/assets/img/uploads/conan.jpg
+optimized_image: /lolla.github.io/assets/img/uploads/conan.jpg
 category: pop
 tags:
   - sunday

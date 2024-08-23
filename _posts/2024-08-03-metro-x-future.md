@@ -4,8 +4,8 @@ layout: post
 title: Metro X Future
 subtitle: So bad.
 description: One of the most anticipated sets of the weekend!
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme10_xenudc.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme10_xenudc.jpg
+image: /lolla.github.io/assets/img/uploads/metro.jpg
+optimized_image: /lolla.github.io/assets/img/uploads/metro.jpg
 category: rap
 tags:
   - saturday
