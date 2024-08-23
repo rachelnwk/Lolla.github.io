@@ -36,7 +36,7 @@
   margin: 0 0 rem(30px);
   display: inline-block;
   min-height: rem(285px);
-  transition: all 0.0s;
+  transition: all 0.3s;
   position: relative;
   z-index: 1;
 
@@ -60,7 +60,7 @@
 
   &:hover {
     //z-index: 1;
-    //transform: scale(1.0);
+    //transform: scale(1);
 
     img {
       //-webkit-filter: grayscale(0%);
@@ -168,7 +168,7 @@
 
       img {
         position: relative;
-        //z-index: 2;
+        z-index: 2;
       }
 
       .new-post-tag {
