@@ -2,14 +2,10 @@
 layout: author
 photo: /assets/img/uploads/profile.png
 name: mranderson
-display_name: Mr. Anderson
-position: The One
-bio: Bulletproof hacker passionate about leather clothes.
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+display_name: Rachel Li
+bio: Computer Engineering major @ NU.
+github_username: rachelnwk
+instagram_username: rrachelnwk
+linkedin_username: rachel-li-3881ab248
 ---
 

@@ -1,11 +1,11 @@
 ---
 date: 2017-07-29 13:24:49
 layout: post
-title: Smoke alert
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: Tate McRae
+description: Amazing as per usual!
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824021/theme12_e0vxlr.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824021/theme12_e0vxlr.jpg
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+subtitle: One of the sets I was really looking forward to!
 category: 'blog'
 tags:
   - jekyll
