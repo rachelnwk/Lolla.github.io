@@ -63,9 +63,3 @@
     opacity: 1;
   }
 }
-
-/* Class to disable animations */
-.disableani * {
-  animation: none !important;
-  transition: none !important;
-}
