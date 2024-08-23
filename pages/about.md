@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img src="/assets/img/uploads/profile.png" alt="Lollapalooza 2024 setlist" width="200">
+<img src="/lolla.github.io/assets/img/uploads/lineup_raw.png" alt="Lollapalooza 2024 setlist" width="200">
 
 # About
 
