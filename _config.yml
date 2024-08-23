@@ -7,7 +7,7 @@ tags:
   - template
   - jekyll
   - theme
-show_hero: true
+show_hero: false
 menu:
   - title: Home
     url: /
