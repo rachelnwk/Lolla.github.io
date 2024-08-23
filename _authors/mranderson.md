@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: 
 name: mranderson
 display_name: Rachel Li
 bio: Computer Engineering major @ NU.
