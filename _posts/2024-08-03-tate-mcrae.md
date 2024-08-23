@@ -11,3 +11,7 @@ tags:
   - saturday
 author: mranderson
 ---
+
+Tate's set was actually pretty good. My friends and I sat in the back as we wanted a break from the crowds, but we still had just as much fun. Tate's a good performer, but I didn't like her song choices. I feel like she missed out on a lot of her banger songs.
+
+Favorite Song: we're not alike

@@ -11,3 +11,7 @@ tags:
   - sunday
 author: mranderson
 ---
+
+We actually ran to here from grentperez, and we made it just in time for the bangers that all the artists play at the end to make sure everyone stays for their set. We got to hear Heather, Maniac, and Memories, which was amazing. Great artist, great performer.
+
+Favorite song: Heather (I know, I'm basic)
