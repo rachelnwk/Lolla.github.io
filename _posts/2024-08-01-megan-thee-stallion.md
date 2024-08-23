@@ -6,9 +6,9 @@ subtitle: 'Surprisingly Good.'
 description: >-
   Thursday's headliner, replacing Tyler the Creator.
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  /lolla.github.io/assets/img/uploads/megan.png
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  /lolla.github.io/assets/img/uploads/magan.png
 category: rap
 tags:
   - headliner

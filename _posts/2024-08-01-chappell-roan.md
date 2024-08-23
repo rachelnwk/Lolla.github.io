@@ -4,8 +4,8 @@ layout: post
 title: Chappell Roan
 subtitle: H-O-T-T-O-G-O.
 description: Surprisingly popular!
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1506079212/jekflix-capa_vfhuzh.png
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png
+image: /lolla.github.io/assets/img/uploads/chappell.png
+optimized_image: /lolla.github.io/assets/img/uploads/chappell.png
 category: pop
 tags:
   - thursday
