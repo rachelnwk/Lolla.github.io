@@ -15,3 +15,5 @@ author: mranderson
 Tate's set was actually pretty good. My friends and I sat in the back as we wanted a break from the crowds, but we still had just as much fun. Tate's a good performer, but I didn't like her song choices. I feel like she missed out on a lot of her banger songs.
 
 Favorite Song: we're not alike
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0tFRxPQHvAUMTbWYRJUo8R?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
