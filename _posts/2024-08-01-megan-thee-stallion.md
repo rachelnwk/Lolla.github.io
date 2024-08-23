@@ -8,7 +8,7 @@ description: >-
 image: >-
   /lolla.github.io/assets/img/uploads/megan.png
 optimized_image: >-
-  /lolla.github.io/assets/img/uploads/magan.png
+  /lolla.github.io/assets/img/uploads/megan.png
 category: rap
 tags:
   - headliner
