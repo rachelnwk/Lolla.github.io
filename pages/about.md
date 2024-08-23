@@ -7,8 +7,8 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thomas A. Anderson" width="200">
+<img src="/assets/img/uploads/profile.png" alt="Lollapalooza 2024 setlist" width="200">
 
 # About
 
-Hi, I'm Rachel! I am a sophmore at Northwestern University studying Computer Engineering.
+Hi, I'm Rachel! This blog is to showcase all the artists I saw at Lollapalooza this summer, and my thoughts on them!
