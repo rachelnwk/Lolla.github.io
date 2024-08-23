@@ -63,7 +63,7 @@
     //transform: scale(1.1);
 
     img {
-     // -webkit-filter: grayscale(100%);
+      //-webkit-filter: grayscale(100%);
       //filter: grayscale(100%);
       //transform: scale(1.05);
     }
@@ -110,7 +110,7 @@
       width: 100%;
       height: auto;
       margin: 0 auto;
-      transition: all 0.2s ease-in-out;
+      //transition: all 0.2s ease-in-out;
     }
 
     time {
@@ -161,7 +161,7 @@
         position: absolute;
         top: 50%;
         left: 50%;
-        transform: translate3d(-50%, -50%, 0);
+        //transform: translate3d(-50%, -50%, 0);
         color: $themeColor;
         z-index: 1;
       }
