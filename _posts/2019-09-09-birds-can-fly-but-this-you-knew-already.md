@@ -1,5 +1,5 @@
 ---
-date: 2010-09-10 12:26:40
+date: 2024-08-04 12:26:40
 layout: post
 title: Vince Staples
 subtitle: Pretty bad, I don't know any recent songs.

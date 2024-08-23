@@ -1,5 +1,5 @@
 ---
-date: 2017-06-04 12:00:00
+date: 2024-08-04 12:00:00
 layout: post
 title: Zeds Ded
 subtitle: I'm blind now.
