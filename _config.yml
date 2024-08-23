@@ -7,8 +7,7 @@ tags:
   - template
   - jekyll
   - theme
-  - netlify
-show_hero: true
+show_hero: false
 menu:
   - title: Home
     url: /
@@ -20,7 +19,7 @@ menu:
     url: /feed.xml
 email: RachelLi2027@u.northwestern.edu
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username:
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
